@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang=en>
+<head>
+<meta charset="utf-8">
+<title>first ever webpage</title>
+</head>
+<body>
+<h1> Help us choose club </h2>
+<div>
+<div>
+<input> placeholder="Something"<input/>
+</div>
+<button>Add</button>
+</div>
+<button>GO!</button>
+</body>
+</html>
